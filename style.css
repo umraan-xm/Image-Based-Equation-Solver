@@ -1,0 +1,50 @@
+QWidget {
+    background-color: #121212;
+    color: rgb(200, 200, 200);
+    font-family: Helvetica, Calibri, serif;
+    font-weight: 400;
+}
+
+QTextEdit {
+    background-color: #202020;
+}
+
+QPushButton {
+    background-color: #202020;
+    font-size: 18px
+}
+
+QLabel {
+    font-size: 17px
+}
+
+QSplitter {
+    background-color: #202020;
+}
+
+QComboBox {
+    background-color: #202020;
+    font-size: 19px
+}
+
+QAbstractItemView::item:hover {
+    background-color: #202020;
+}
+
+QTableView {
+    background-color: #202020;
+    font-size: 17px
+}
+
+QTableView::item:hover {
+    background-color: #252525;
+}
+
+QTableView::item:selected {
+    background-color: #353535;
+}
+
+QHeaderView {
+    background-color: #181818;
+    font-size: 19px
+}
