@@ -84,7 +84,7 @@ def segment_image(img):
 
 
 if __name__ == '__main__':
-    image = cv2.imread("E:\\Documentation\\Project Sem 6\\test\\test_image13.png")
+    image = cv2.imread("")
     show_image(image)
     # segment_image(image)
     segment_lines(image)
